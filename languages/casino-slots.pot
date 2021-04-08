@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Casino Slots\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-19 06:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.3.3"
+
+#: includes/class-casino-slots-post-types.php:89
+msgid "Add New Game"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:87
+msgctxt "add new on admin bar"
+msgid "Game"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:86
+msgctxt "admin menu"
+msgid "Games"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:93
+msgid "All Games"
+msgstr ""
+
+#. Name of the plugin
+msgid "Casino Slots"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create different casino slots"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:91
+msgid "Edit Game"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:88
+msgctxt "game"
+msgid "Add New"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoursite.lv"
+msgstr ""
+
+#: templates/single/content-info.php:62
+msgid "Jackpot"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kristaps Ritins"
+msgstr ""
+
+#: templates/single/content-info.php:22
+msgid "Lines"
+msgstr ""
+
+#: templates/single/content-info.php:46
+msgid "Max. coins"
+msgstr ""
+
+#: templates/single/content-info.php:38
+msgid "Min. coins"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:90
+msgid "New Game"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:97
+msgid "No games found in Trash."
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:96
+msgid "No games found."
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:95
+msgid "Parent Games:"
+msgstr ""
+
+#: templates/shortcodes/slots-list.php:18
+msgid "Play for free"
+msgstr ""
+
+#: templates/single/content-slot.php:21
+msgid "Play for play money"
+msgstr ""
+
+#: templates/single/content-slot.php:18
+msgid "Play for real money"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:84
+msgctxt "post type general name"
+msgid "Games"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:85
+msgctxt "post type singular name"
+msgid "Game"
+msgstr ""
+
+#: templates/single/content-info.php:30
+msgid "Reels"
+msgstr ""
+
+#: templates/single/content-info.php:54
+msgid "RTP"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:94
+msgid "Search Games"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:98
+msgid "Set Game Image"
+msgstr ""
+
+#: templates/single/content-info.php:5
+msgid "Software"
+msgstr ""
+
+#: includes/class-casino-slots-post-types.php:92
+msgid "View Game"
+msgstr ""
+
+#: templates/single/content-info.php:13
+msgid "Year"
+msgstr ""
